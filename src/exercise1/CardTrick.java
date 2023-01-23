@@ -23,7 +23,7 @@ public class CardTrick {
             // Hint: You can use Random -> random.nextInt(n) to get a random number between 0 and n-1 (inclusive)
             //       Don't worry about duplicates at this point
             hand[i]=card;
-		System.out.println(hand(i));
+		System.out.println(hand[i]);
         }
 
         // insert code to ask the user for Card value and suit, create their card

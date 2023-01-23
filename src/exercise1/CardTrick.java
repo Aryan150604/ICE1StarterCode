@@ -23,6 +23,7 @@ public class CardTrick {
             //card.setSuit(Card.SUITS[insert call to random number between 0-3 here])
             // Hint: You can use Random -> random.nextInt(n) to get a random number between 0 and n-1 (inclusive)
             //       Don't worry about duplicates at this point
+		// fetch
             hand[i]=card;
 		System.out.println(hand[i]);
         }
